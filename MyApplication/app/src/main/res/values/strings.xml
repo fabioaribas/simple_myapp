@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="act_google">Google</string>
+    <string name="act_buttons">Buttons</string>
+    <string name="act_list">List</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="labelToast">Toast</string>
+    <string name="labelAlert">Alert</string>
+    <string name="toast_msg">Toast Message</string>
+    <string name="this_is_alert">this is an alert</string>
+    <string name="btnOk">OK</string>
+</resources>
